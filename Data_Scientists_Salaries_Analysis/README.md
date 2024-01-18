@@ -35,14 +35,14 @@ There are main two ways through which you can run this project:
 - Download the notebook file and dataset  by cloning repo to your local machine, and run it by using Anaconda or JupyterLab etc.
 - Directly run the project notebook using Kaggle. If you want to run it and observe live, please visit my [Kaggle](https://www.kaggle.com/code/khairullahhamsafar/data-scientists-salary-trends-in-global-industries) profile.
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/khairullahhamsafar/portfolio_prjects.git
 
-# Navigate to the project directory
+### Navigate to the project directory
 cd portfolio_prjects/Data_Scientists_Salaries_Analysis
 
-# Install dependencies (if any)
+### Install dependencies (if any)
 pip install -r requirements.txt
 
-# Run the main analysis notebook
+### Run the main analysis notebook
 [Data Scientists Salaries Analysis](https://localhost:8888/notebooks/portfolio_prjects/Data_Scientists_Salaries_Analysis/Data_Scientists_Salaries_Analysis_main.ipynb)
