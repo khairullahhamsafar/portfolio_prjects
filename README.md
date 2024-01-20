@@ -1,6 +1,6 @@
 # 🚀 List of My Personal Portfolio Projects 💚
 
-## ✅ Added Projects:
+## ✅ Completed Projects:
 
 1. [Data Science Professionals Salaries Trends in Global Industries 2021-23](https://github.com/khairullahhamsafar/portfolio_prjects/tree/main/Data_Scientists_Salaries_Analysis).
 
