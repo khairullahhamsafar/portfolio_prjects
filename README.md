@@ -29,3 +29,5 @@
 1. [HR Analytics in Power BI]().
 1. [ThinkDolphin - Blogging Site in PHP]().
 1. [Analysta - a Data Analysis App in Django]().
+1. [How the Pakistan is doing]().
+1. [Best Countries for The Men]().
