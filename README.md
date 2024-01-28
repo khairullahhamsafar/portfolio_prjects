@@ -10,3 +10,9 @@
 
 ---
 
+## &#128736; Currently Working On:
+
+1. [Amazon Products Reviews Sentiment Analysis](https://github.com/khairullahhamsafar/portfolio_prjects/tree/main/Amazon_Products_Reviews_Sentiment_Analysis).
+1. [Twitter Sentiment Analysis Using Deep Learning: implementing BERT and BiLSTM on a Public Policy dataset.]().
+1. [Enefit - Predict Energy Behavior of Prosumers]().
+
