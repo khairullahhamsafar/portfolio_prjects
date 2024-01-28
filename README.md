@@ -26,3 +26,6 @@
 1. [Realtime Satellites Monitoring System]().
 1. [Climate Analytics Dashboard]().
 1. [Research Analytics Dashboard]().
+1. [HR Analytics in Power BI]().
+1. [ThinkDolphin - Blogging Site in PHP]().
+1. [Analysta - a Data Analysis App in Django]().
