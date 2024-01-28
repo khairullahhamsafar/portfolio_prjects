@@ -16,3 +16,13 @@
 1. [Twitter Sentiment Analysis Using Deep Learning: implementing BERT and BiLSTM on a Public Policy dataset.]().
 1. [Enefit - Predict Energy Behavior of Prosumers]().
 
+<br/>
+
+---
+
+## ⌛ Pending:
+
+1. [Relationship Between Human Development and Corruption]().
+1. [Realtime Satellites Monitoring System]().
+1. [Climate Analytics Dashboard]().
+1. [Research Analytics Dashboard]().
