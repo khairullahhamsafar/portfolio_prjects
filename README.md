@@ -6,6 +6,8 @@
 
 1. [Hotels Booking Data Analysis for Investigating Higher Cancellation Rate.](https://github.com/khairullahhamsafar/portfolio_prjects/tree/main/Investigating_High_Cancellation_Rate_in_Hotels).
 
+1. [Predicting Pakistan CO2 Emissions from Fuel (Liquid, Solid) Consumption Using Climate Change Indicators.](https://github.com/khairullahhamsafar/Pakistan-CO2-Emissions-Predictions).
+
 <br/>
 
 ---
